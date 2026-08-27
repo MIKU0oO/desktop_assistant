@@ -1,0 +1,2 @@
+"""Desktop selection translation assistant."""
+

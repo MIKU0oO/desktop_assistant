@@ -1,0 +1,5 @@
+PySide6==6.7.3
+pynput>=1.7
+keyboard>=0.13
+llama-cpp-python>=0.2.90
+pyinstaller>=6.0
